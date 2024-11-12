@@ -1,0 +1,15 @@
+C:\Users\billy et morgane\Desktop\test-v2\MonProjetHexagonal\MonProjet.Infrastructure\bin\Debug\net8.0\MonProjet.Infrastructure.deps.json
+C:\Users\billy et morgane\Desktop\test-v2\MonProjetHexagonal\MonProjet.Infrastructure\bin\Debug\net8.0\MonProjet.Infrastructure.dll
+C:\Users\billy et morgane\Desktop\test-v2\MonProjetHexagonal\MonProjet.Infrastructure\bin\Debug\net8.0\MonProjet.Infrastructure.pdb
+C:\Users\billy et morgane\Desktop\test-v2\MonProjetHexagonal\MonProjet.Infrastructure\bin\Debug\net8.0\MonProjet.Core.dll
+C:\Users\billy et morgane\Desktop\test-v2\MonProjetHexagonal\MonProjet.Infrastructure\bin\Debug\net8.0\MonProjet.Core.pdb
+C:\Users\billy et morgane\Desktop\test-v2\MonProjetHexagonal\MonProjet.Infrastructure\obj\Debug\net8.0\MonProjet.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\billy et morgane\Desktop\test-v2\MonProjetHexagonal\MonProjet.Infrastructure\obj\Debug\net8.0\MonProjet.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\billy et morgane\Desktop\test-v2\MonProjetHexagonal\MonProjet.Infrastructure\obj\Debug\net8.0\MonProjet.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\billy et morgane\Desktop\test-v2\MonProjetHexagonal\MonProjet.Infrastructure\obj\Debug\net8.0\MonProjet.Infrastructure.AssemblyInfo.cs
+C:\Users\billy et morgane\Desktop\test-v2\MonProjetHexagonal\MonProjet.Infrastructure\obj\Debug\net8.0\MonProjet.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\billy et morgane\Desktop\test-v2\MonProjetHexagonal\MonProjet.Infrastructure\obj\Debug\net8.0\MonProje.5FE23D4D.Up2Date
+C:\Users\billy et morgane\Desktop\test-v2\MonProjetHexagonal\MonProjet.Infrastructure\obj\Debug\net8.0\MonProjet.Infrastructure.dll
+C:\Users\billy et morgane\Desktop\test-v2\MonProjetHexagonal\MonProjet.Infrastructure\obj\Debug\net8.0\refint\MonProjet.Infrastructure.dll
+C:\Users\billy et morgane\Desktop\test-v2\MonProjetHexagonal\MonProjet.Infrastructure\obj\Debug\net8.0\MonProjet.Infrastructure.pdb
+C:\Users\billy et morgane\Desktop\test-v2\MonProjetHexagonal\MonProjet.Infrastructure\obj\Debug\net8.0\ref\MonProjet.Infrastructure.dll

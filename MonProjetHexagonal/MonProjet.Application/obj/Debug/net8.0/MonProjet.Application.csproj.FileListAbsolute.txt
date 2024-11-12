@@ -1,0 +1,15 @@
+C:\Users\billy et morgane\Desktop\test-v2\MonProjetHexagonal\MonProjet.Application\bin\Debug\net8.0\MonProjet.Application.deps.json
+C:\Users\billy et morgane\Desktop\test-v2\MonProjetHexagonal\MonProjet.Application\bin\Debug\net8.0\MonProjet.Application.dll
+C:\Users\billy et morgane\Desktop\test-v2\MonProjetHexagonal\MonProjet.Application\bin\Debug\net8.0\MonProjet.Application.pdb
+C:\Users\billy et morgane\Desktop\test-v2\MonProjetHexagonal\MonProjet.Application\bin\Debug\net8.0\MonProjet.Core.dll
+C:\Users\billy et morgane\Desktop\test-v2\MonProjetHexagonal\MonProjet.Application\bin\Debug\net8.0\MonProjet.Core.pdb
+C:\Users\billy et morgane\Desktop\test-v2\MonProjetHexagonal\MonProjet.Application\obj\Debug\net8.0\MonProjet.Application.csproj.AssemblyReference.cache
+C:\Users\billy et morgane\Desktop\test-v2\MonProjetHexagonal\MonProjet.Application\obj\Debug\net8.0\MonProjet.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\billy et morgane\Desktop\test-v2\MonProjetHexagonal\MonProjet.Application\obj\Debug\net8.0\MonProjet.Application.AssemblyInfoInputs.cache
+C:\Users\billy et morgane\Desktop\test-v2\MonProjetHexagonal\MonProjet.Application\obj\Debug\net8.0\MonProjet.Application.AssemblyInfo.cs
+C:\Users\billy et morgane\Desktop\test-v2\MonProjetHexagonal\MonProjet.Application\obj\Debug\net8.0\MonProjet.Application.csproj.CoreCompileInputs.cache
+C:\Users\billy et morgane\Desktop\test-v2\MonProjetHexagonal\MonProjet.Application\obj\Debug\net8.0\MonProje.9460A0BA.Up2Date
+C:\Users\billy et morgane\Desktop\test-v2\MonProjetHexagonal\MonProjet.Application\obj\Debug\net8.0\MonProjet.Application.dll
+C:\Users\billy et morgane\Desktop\test-v2\MonProjetHexagonal\MonProjet.Application\obj\Debug\net8.0\refint\MonProjet.Application.dll
+C:\Users\billy et morgane\Desktop\test-v2\MonProjetHexagonal\MonProjet.Application\obj\Debug\net8.0\MonProjet.Application.pdb
+C:\Users\billy et morgane\Desktop\test-v2\MonProjetHexagonal\MonProjet.Application\obj\Debug\net8.0\ref\MonProjet.Application.dll

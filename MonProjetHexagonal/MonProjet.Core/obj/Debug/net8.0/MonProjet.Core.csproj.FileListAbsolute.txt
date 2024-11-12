@@ -1,0 +1,11 @@
+C:\Users\billy et morgane\Desktop\test-v2\MonProjetHexagonal\MonProjet.Core\obj\Debug\net8.0\MonProjet.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\billy et morgane\Desktop\test-v2\MonProjetHexagonal\MonProjet.Core\obj\Debug\net8.0\MonProjet.Core.AssemblyInfoInputs.cache
+C:\Users\billy et morgane\Desktop\test-v2\MonProjetHexagonal\MonProjet.Core\obj\Debug\net8.0\MonProjet.Core.AssemblyInfo.cs
+C:\Users\billy et morgane\Desktop\test-v2\MonProjetHexagonal\MonProjet.Core\obj\Debug\net8.0\MonProjet.Core.csproj.CoreCompileInputs.cache
+C:\Users\billy et morgane\Desktop\test-v2\MonProjetHexagonal\MonProjet.Core\bin\Debug\net8.0\MonProjet.Core.deps.json
+C:\Users\billy et morgane\Desktop\test-v2\MonProjetHexagonal\MonProjet.Core\bin\Debug\net8.0\MonProjet.Core.dll
+C:\Users\billy et morgane\Desktop\test-v2\MonProjetHexagonal\MonProjet.Core\bin\Debug\net8.0\MonProjet.Core.pdb
+C:\Users\billy et morgane\Desktop\test-v2\MonProjetHexagonal\MonProjet.Core\obj\Debug\net8.0\MonProjet.Core.dll
+C:\Users\billy et morgane\Desktop\test-v2\MonProjetHexagonal\MonProjet.Core\obj\Debug\net8.0\refint\MonProjet.Core.dll
+C:\Users\billy et morgane\Desktop\test-v2\MonProjetHexagonal\MonProjet.Core\obj\Debug\net8.0\MonProjet.Core.pdb
+C:\Users\billy et morgane\Desktop\test-v2\MonProjetHexagonal\MonProjet.Core\obj\Debug\net8.0\ref\MonProjet.Core.dll
