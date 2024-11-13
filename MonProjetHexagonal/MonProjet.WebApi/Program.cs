@@ -1,9 +1,7 @@
-using MonProjet.Application.Interfaces;
 using MonProjet.Application.Services;
 using MonProjet.Core.Interfaces;
 using MonProjet.Infrastructure.Data;
 using MonProjet.Infrastructure.Repositories;
-using MonProjetHexagonal.Application;
 using MonProjetHexagonal.Application.Services;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -14,8 +12,8 @@ builder.Services.AddSingleton(sp =>
     return new MongoDbContext(connectionString, databaseName);
 });
 builder.Services.AddScoped<IUserRepository, UserRepository>();
-builder.Services.AddScoped<IUserService, UserService>();
-builder.Services.AddScoped<IFDESService, FDESService>();
+builder.Services.AddScoped<UserService>();
+builder.Services.AddScoped<FDESService>();
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();

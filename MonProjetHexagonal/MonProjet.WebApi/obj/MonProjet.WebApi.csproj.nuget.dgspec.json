@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\billy et morgane\\Desktop\\test-v2\\MonProjetHexagonal\\MonProjet.WebApi\\MonProjet.WebApi.csproj": {}
+    "C:\\Users\\billy.prak\\OneDrive - VINCI Construction\\Bureau\\hexa\\MonProjetHexagonal\\MonProjet.WebApi\\MonProjet.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\billy et morgane\\Desktop\\test-v2\\MonProjetHexagonal\\MonProjet.Application\\MonProjet.Application.csproj": {
+    "C:\\Users\\billy.prak\\OneDrive - VINCI Construction\\Bureau\\hexa\\MonProjetHexagonal\\MonProjet.Application\\MonProjet.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\billy et morgane\\Desktop\\test-v2\\MonProjetHexagonal\\MonProjet.Application\\MonProjet.Application.csproj",
+        "projectUniqueName": "C:\\Users\\billy.prak\\OneDrive - VINCI Construction\\Bureau\\hexa\\MonProjetHexagonal\\MonProjet.Application\\MonProjet.Application.csproj",
         "projectName": "MonProjet.Application",
-        "projectPath": "C:\\Users\\billy et morgane\\Desktop\\test-v2\\MonProjetHexagonal\\MonProjet.Application\\MonProjet.Application.csproj",
-        "packagesPath": "C:\\Users\\billy et morgane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\billy et morgane\\Desktop\\test-v2\\MonProjetHexagonal\\MonProjet.Application\\obj\\",
+        "projectPath": "C:\\Users\\billy.prak\\OneDrive - VINCI Construction\\Bureau\\hexa\\MonProjetHexagonal\\MonProjet.Application\\MonProjet.Application.csproj",
+        "packagesPath": "C:\\Users\\billy.prak\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\billy.prak\\OneDrive - VINCI Construction\\Bureau\\hexa\\MonProjetHexagonal\\MonProjet.Application\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\billy et morgane\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\billy.prak\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,15 +22,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\billy et morgane\\Desktop\\test-v2\\MonProjetHexagonal\\MonProjet.Core\\MonProjet.Core.csproj": {
-                "projectPath": "C:\\Users\\billy et morgane\\Desktop\\test-v2\\MonProjetHexagonal\\MonProjet.Core\\MonProjet.Core.csproj"
+              "C:\\Users\\billy.prak\\OneDrive - VINCI Construction\\Bureau\\hexa\\MonProjetHexagonal\\MonProjet.Core\\MonProjet.Core.csproj": {
+                "projectPath": "C:\\Users\\billy.prak\\OneDrive - VINCI Construction\\Bureau\\hexa\\MonProjetHexagonal\\MonProjet.Core\\MonProjet.Core.csproj"
               }
             }
           }
@@ -43,11 +38,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -69,25 +59,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.110/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\billy et morgane\\Desktop\\test-v2\\MonProjetHexagonal\\MonProjet.Core\\MonProjet.Core.csproj": {
+    "C:\\Users\\billy.prak\\OneDrive - VINCI Construction\\Bureau\\hexa\\MonProjetHexagonal\\MonProjet.Core\\MonProjet.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\billy et morgane\\Desktop\\test-v2\\MonProjetHexagonal\\MonProjet.Core\\MonProjet.Core.csproj",
+        "projectUniqueName": "C:\\Users\\billy.prak\\OneDrive - VINCI Construction\\Bureau\\hexa\\MonProjetHexagonal\\MonProjet.Core\\MonProjet.Core.csproj",
         "projectName": "MonProjet.Core",
-        "projectPath": "C:\\Users\\billy et morgane\\Desktop\\test-v2\\MonProjetHexagonal\\MonProjet.Core\\MonProjet.Core.csproj",
-        "packagesPath": "C:\\Users\\billy et morgane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\billy et morgane\\Desktop\\test-v2\\MonProjetHexagonal\\MonProjet.Core\\obj\\",
+        "projectPath": "C:\\Users\\billy.prak\\OneDrive - VINCI Construction\\Bureau\\hexa\\MonProjetHexagonal\\MonProjet.Core\\MonProjet.Core.csproj",
+        "packagesPath": "C:\\Users\\billy.prak\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\billy.prak\\OneDrive - VINCI Construction\\Bureau\\hexa\\MonProjetHexagonal\\MonProjet.Core\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\billy et morgane\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\billy.prak\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -95,7 +81,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -108,11 +93,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -134,25 +114,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.110/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\billy et morgane\\Desktop\\test-v2\\MonProjetHexagonal\\MonProjet.Infrastructure\\MonProjet.Infrastructure.csproj": {
+    "C:\\Users\\billy.prak\\OneDrive - VINCI Construction\\Bureau\\hexa\\MonProjetHexagonal\\MonProjet.Infrastructure\\MonProjet.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\billy et morgane\\Desktop\\test-v2\\MonProjetHexagonal\\MonProjet.Infrastructure\\MonProjet.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\billy.prak\\OneDrive - VINCI Construction\\Bureau\\hexa\\MonProjetHexagonal\\MonProjet.Infrastructure\\MonProjet.Infrastructure.csproj",
         "projectName": "MonProjet.Infrastructure",
-        "projectPath": "C:\\Users\\billy et morgane\\Desktop\\test-v2\\MonProjetHexagonal\\MonProjet.Infrastructure\\MonProjet.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\billy et morgane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\billy et morgane\\Desktop\\test-v2\\MonProjetHexagonal\\MonProjet.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\billy.prak\\OneDrive - VINCI Construction\\Bureau\\hexa\\MonProjetHexagonal\\MonProjet.Infrastructure\\MonProjet.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\billy.prak\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\billy.prak\\OneDrive - VINCI Construction\\Bureau\\hexa\\MonProjetHexagonal\\MonProjet.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\billy et morgane\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\billy.prak\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -160,15 +136,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\billy et morgane\\Desktop\\test-v2\\MonProjetHexagonal\\MonProjet.Core\\MonProjet.Core.csproj": {
-                "projectPath": "C:\\Users\\billy et morgane\\Desktop\\test-v2\\MonProjetHexagonal\\MonProjet.Core\\MonProjet.Core.csproj"
+              "C:\\Users\\billy.prak\\OneDrive - VINCI Construction\\Bureau\\hexa\\MonProjetHexagonal\\MonProjet.Core\\MonProjet.Core.csproj": {
+                "projectPath": "C:\\Users\\billy.prak\\OneDrive - VINCI Construction\\Bureau\\hexa\\MonProjetHexagonal\\MonProjet.Core\\MonProjet.Core.csproj"
               }
             }
           }
@@ -177,11 +152,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -209,25 +179,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.110/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\billy et morgane\\Desktop\\test-v2\\MonProjetHexagonal\\MonProjet.WebApi\\MonProjet.WebApi.csproj": {
+    "C:\\Users\\billy.prak\\OneDrive - VINCI Construction\\Bureau\\hexa\\MonProjetHexagonal\\MonProjet.WebApi\\MonProjet.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\billy et morgane\\Desktop\\test-v2\\MonProjetHexagonal\\MonProjet.WebApi\\MonProjet.WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\billy.prak\\OneDrive - VINCI Construction\\Bureau\\hexa\\MonProjetHexagonal\\MonProjet.WebApi\\MonProjet.WebApi.csproj",
         "projectName": "MonProjet.WebApi",
-        "projectPath": "C:\\Users\\billy et morgane\\Desktop\\test-v2\\MonProjetHexagonal\\MonProjet.WebApi\\MonProjet.WebApi.csproj",
-        "packagesPath": "C:\\Users\\billy et morgane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\billy et morgane\\Desktop\\test-v2\\MonProjetHexagonal\\MonProjet.WebApi\\obj\\",
+        "projectPath": "C:\\Users\\billy.prak\\OneDrive - VINCI Construction\\Bureau\\hexa\\MonProjetHexagonal\\MonProjet.WebApi\\MonProjet.WebApi.csproj",
+        "packagesPath": "C:\\Users\\billy.prak\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\billy.prak\\OneDrive - VINCI Construction\\Bureau\\hexa\\MonProjetHexagonal\\MonProjet.WebApi\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\billy et morgane\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\billy.prak\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -235,18 +201,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\billy et morgane\\Desktop\\test-v2\\MonProjetHexagonal\\MonProjet.Application\\MonProjet.Application.csproj": {
-                "projectPath": "C:\\Users\\billy et morgane\\Desktop\\test-v2\\MonProjetHexagonal\\MonProjet.Application\\MonProjet.Application.csproj"
+              "C:\\Users\\billy.prak\\OneDrive - VINCI Construction\\Bureau\\hexa\\MonProjetHexagonal\\MonProjet.Application\\MonProjet.Application.csproj": {
+                "projectPath": "C:\\Users\\billy.prak\\OneDrive - VINCI Construction\\Bureau\\hexa\\MonProjetHexagonal\\MonProjet.Application\\MonProjet.Application.csproj"
               },
-              "C:\\Users\\billy et morgane\\Desktop\\test-v2\\MonProjetHexagonal\\MonProjet.Infrastructure\\MonProjet.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\billy et morgane\\Desktop\\test-v2\\MonProjetHexagonal\\MonProjet.Infrastructure\\MonProjet.Infrastructure.csproj"
+              "C:\\Users\\billy.prak\\OneDrive - VINCI Construction\\Bureau\\hexa\\MonProjetHexagonal\\MonProjet.Infrastructure\\MonProjet.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\billy.prak\\OneDrive - VINCI Construction\\Bureau\\hexa\\MonProjetHexagonal\\MonProjet.Infrastructure\\MonProjet.Infrastructure.csproj"
               }
             }
           }
@@ -255,11 +220,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -298,7 +258,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.110/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

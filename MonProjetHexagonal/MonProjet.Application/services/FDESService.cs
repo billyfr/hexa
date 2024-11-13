@@ -4,7 +4,7 @@ using MonProjetHexagonal.Core;
 
 namespace MonProjetHexagonal.Application.Services
 {
-    public class FDESService : IFDESService
+    public class FDESService
     {
         private readonly IFDESRepository _fdesRepository;
 

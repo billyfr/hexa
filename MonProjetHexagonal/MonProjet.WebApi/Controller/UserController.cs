@@ -1,6 +1,6 @@
 // MonProjet.WebApi/Controllers/UserController.cs
 using Microsoft.AspNetCore.Mvc;
-using MonProjet.Application.Interfaces;
+using MonProjet.Application.Services;
 using MonProjet.Core.Entities;
 
 namespace MonProjet.WebApi.Controllers
@@ -9,9 +9,9 @@ namespace MonProjet.WebApi.Controllers
     [Route("api/[controller]")]
     public class UserController : ControllerBase
     {
-        private readonly IUserService _userService;
+        private readonly UserService _userService;
 
-        public UserController(IUserService userService)
+        public UserController(UserService userService)
         {
             _userService = userService;
         }

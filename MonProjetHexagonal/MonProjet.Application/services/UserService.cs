@@ -1,11 +1,10 @@
 // MonProjet.Application/Services/UserService.cs
 using MonProjet.Core.Entities;
 using MonProjet.Core.Interfaces;
-using MonProjet.Application.Interfaces;
 
 namespace MonProjet.Application.Services
 {
-    public class UserService : IUserService
+    public class UserService
     {
         private readonly IUserRepository _userRepository;
 

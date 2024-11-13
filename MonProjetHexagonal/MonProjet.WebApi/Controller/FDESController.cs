@@ -1,6 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
-using MonProjetHexagonal.Application;
-using System.Threading.Tasks;
+using MonProjetHexagonal.Application.Services;
 
 namespace MonProjetHexagonal.WebApi.Controllers
 {
@@ -8,9 +7,9 @@ namespace MonProjetHexagonal.WebApi.Controllers
     [ApiController]
     public class FDESController : ControllerBase
     {
-        private readonly IFDESService _fdesService;
+        private readonly FDESService _fdesService;
 
-        public FDESController(IFDESService fdesService)
+        public FDESController(FDESService fdesService)
         {
             _fdesService = fdesService;
         }
